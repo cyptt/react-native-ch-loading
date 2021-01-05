@@ -1,0 +1,22 @@
+{
+  "name": "react-native-ch-loading",
+  "version": "0.0.1",
+  "description": "swxa mobile shield connect to ps wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "loading"
+  ],
+  "publishConfig": {
+    "registry": ""
+  },
+  "author": "cyptt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
