@@ -1,6 +1,6 @@
 {
   "name": "react-native-ch-loading",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "swxa mobile shield connect to ps wrapper",
   "main": "index.js",
   "scripts": {
