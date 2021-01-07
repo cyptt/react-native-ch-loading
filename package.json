@@ -1,6 +1,6 @@
 {
   "name": "react-native-ch-loading",
-  "version": "0.0.2",
+  "version": "0.0.9",
   "description": "swxa mobile shield connect to ps wrapper",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,13 @@
     "loading"
   ],
   "publishConfig": {
-    "registry": ""
+    "registry": "https://registry.npmjs.org/"
   },
+  "registry": {
+      "type": "git",
+        "url": "git@github.com:cyptt/react-native-ch-loading.git"
+  }
+  ,
   "author": "cyptt",
   "license": "ISC",
   "dependencies": {
