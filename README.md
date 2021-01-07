@@ -1,5 +1,3 @@
-# react-native-ch-loading
-react-native loading
 ### 集成说明
 npm install react-native-ch-loading@lastversion
 yarn add react-native-ch-loading@lastversion
@@ -26,8 +24,15 @@ export  default class App extends React.Component{
     btnClick(){
 
 
-      Loading.show()
-      Loading.setOffSetCenter(0) //设置偏移量
+      Loading.show("登录成功")
+                 .setOffSetCenter(100)
+                 .setBgColor("#ff0")
+                 .setLoadColor('#F01')
+                 .setTextColor("#f0f")
+                 .setTextSize(20)
+                 .setIndicatorSize('large')
+                 
+                 
       setTimeout(function () {
           Loading.hide()
       },2000)
