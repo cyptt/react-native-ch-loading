@@ -1,6 +1,6 @@
 ### 集成说明
-npm install react-native-ch-loading@lastversion
-yarn add react-native-ch-loading@lastversion
+- npm install react-native-ch-loading@lastversion
+- yarn add react-native-ch-loading@lastversion
 
 ### 参数说明
 ```
